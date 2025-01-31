@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#states-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#states-list li {
+    margin-bottom: 10px;
+}
